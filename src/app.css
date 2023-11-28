@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    @apply
+        box-border
+        font-text
+        text-white;
+}
+
+body {
+    @apply
+        bg-gray;
+}
