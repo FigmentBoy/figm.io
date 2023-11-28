@@ -25,6 +25,9 @@
                         <LinkButton href="https://twitter.com/FigmentBoy_" class="bg-red">
                             <i class="fa-brands fa-twitter text-gray mr-2"/>Twitter
                         </LinkButton>
+                        <LinkButton href="https://github.com/FigmentBoy" class="bg-red">
+                            <i class="fa-brands fa-github text-gray mr-2"/>GitHub
+                        </LinkButton>
                         <LinkButton href="https://blog.figm.io/" class="bg-red">
                             <i class="fa-solid fa-blog text-gray mr-2"/>Blog
                         </LinkButton>
