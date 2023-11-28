@@ -12,7 +12,7 @@
         <Container class="flex flex-col justify-center items-center">
             <div class="w-full h-full flex flex-col justify-center items-center gap-4">
                 <div class="max-w-full max-h-full aspect-video rounded-lg overflow-hidden relative">
-                    <enhanced:img src={fig} alt="A photo of me!" />
+                    <enhanced:img src={fig} alt="Me!" />
                 </div>
 
                 <div class="flex flex-col justify-center items-center gap-4 flex-grow">
