@@ -8,7 +8,7 @@
     export let frames: number;
 
     const currentFrame = (index: number) => (
-        `/assets/VideoScrollers/${path}/${(index + 1).toString().padStart(4, '0')}.jpg`
+        `/assets/VideoScrollers/${path}/${(index + 1).toString().padStart(4, '0')}.webp`
     );
 
     let canvas: HTMLCanvasElement;
