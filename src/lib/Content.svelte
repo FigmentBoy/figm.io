@@ -18,7 +18,7 @@
                 <div class="flex flex-col justify-center items-center gap-4 flex-grow">
                     <div class="max-w-2xl">
                         <h1 class="text-3xl text-center text-red">About Me</h1>
-                        <p class="text-md text-center">I'm an 18 year old amateur developer specializing in C++! I am currently a student at <span class="text-red">Purdue University</span>, where I am pursuing a double-major in <span class="text-red">Computer Science and Music</span>. When I'm not coding, I'm either playing my Trombone in a local orchestra or playing Baritone in Drum Corps!</p>
+                        <p class="text-md text-center">I'm a 19 year old amateur developer specializing in C++! I am currently a student at <span class="text-red">Purdue University</span>, where I am pursuing a double-major in <span class="text-red">Computer Science</span>. When I'm not coding, I'm either playing my Trombone in a local orchestra or playing Baritone in Drum Corps!</p>
                     </div>
 
                     <div class="flex gap-4 justify-center items-center text-sm">
